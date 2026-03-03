@@ -28,3 +28,6 @@ using namespace std;
 int p, l, luas;
 
 // Implementasi Prosedur Fungsi
+void input () {
+    cout << "Masukkan panjang = ";
+}
