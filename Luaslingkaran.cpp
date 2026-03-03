@@ -20,3 +20,9 @@ int main(){
     akhir();
 }
 
+// library
+#include <iostream>
+using namespace std;
+
+// deklarasi
+int p, l, luas;
