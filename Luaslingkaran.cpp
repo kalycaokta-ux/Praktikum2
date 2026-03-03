@@ -26,3 +26,5 @@ using namespace std;
 
 // deklarasi
 int p, l, luas;
+
+// Implementasi Prosedur Fungsi
